@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 
 
-app = FastAPI(title="CI/CD Example")
+app = FastAPI(title="Demo app")
 
 
 @app.get("/")
